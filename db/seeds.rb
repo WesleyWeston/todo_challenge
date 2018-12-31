@@ -1,0 +1,1 @@
+Task.create(priority: "1" , task: "do homework")
